@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "io.zluan.grokk"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "io.zluan.grokk"
